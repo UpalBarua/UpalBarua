@@ -4,7 +4,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=UpalBarua&label=Profile%20views&color=0e75b6&style=flat" alt="UpalBarua"  align="left" /></p> -->
 
-<img style="height:300px;object-fit:cover;object-position:bottom;" src="./images/banner.gif" alt="banner" align="right">
+<img style="height:200px;object-fit:cover;object-position:bottom;" src="./images/banner.gif" alt="banner" align="right">
 
 - 🌱 I’m currently learning **Next.js**
 
@@ -47,6 +47,10 @@
 <img align="left" alt="Bash" width="40px" style="padding:12px;" src="./images/icons/bash.png"/>
 <div>
 
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 
