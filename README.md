@@ -1,10 +1,10 @@
-<img style="height:300px;width:100%;object-fit:cover;object-position:bottom;" src="./images/banner.gif" alt="banner">
-
 # Upal Barua
 
 **`A developer filled with enthusiasm and passion`**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=UpalBarua&label=Profile%20views&color=0e75b6&style=flat" alt="UpalBarua" /></p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=UpalBarua&label=Profile%20views&color=0e75b6&style=flat" alt="UpalBarua"  align="left" /></p> -->
+
+<img style="height:300px;object-fit:cover;object-position:bottom;" src="./images/banner.gif" alt="banner" align="right">
 
 - 🌱 I’m currently learning **Next.js**
 
@@ -18,7 +18,39 @@
 
 - ⚡ Fun fact **I'm your personal humor curator, dedicated to keeping smiles abundant**
 
-## &#x1f4c8; GitHub Stats
+<br>
+<br>
+
+## 🧰 Languages and Tools
+
+<div style="padding=10px">
+<img align="left" alt="HTML5" width="40px" style="padding:12px;" src="./images/icons/html5.png"/>
+<img align="left" alt="CSS3" width="40px" style="padding:12px;" src="./images/icons/css3.png"/>
+<img align="left" alt="Javascript" width="40px" style="padding:12px;" src="./images/icons/javascript.png"/>
+<img align="left" alt="TypeScript" width="40px" style="padding:12px;" src="./images/icons/typescript.png"/>
+<img align="left" alt="React" width="40px" style="padding:12px;" src="./images/icons/react.png"/>
+<img align="left" alt="Next.js" width="40px" style="padding:12px;" src="./images/icons/next-js.png"/>
+<img align="left" alt="Sass" width="40px" style="padding:12px;" src="./images/icons/sass.png"/>
+<img align="left" alt="Tailwind CSS" width="40px" style="padding:12px;" src="./images/icons/tailwind.png"/>
+<img align="left" alt="Bootstrap 5" width="40px" style="padding:12px;" src="./images/icons/bootstrap-5.png"/>
+<img align="left" alt="Chakra UI" width="40px" style="padding:12px;" src="./images/icons/chakra-ui.png"/>
+<img align="left" alt="Firebase" width="40px" style="padding:12px;" src="./images/icons/firebase.png"/>
+<img align="left" alt="Node.js" width="40px" style="padding:12px;" src="./images/icons/node-js.png"/>
+<img align="left" alt="Express.js" width="40px" style="padding:12px;" src="./images/icons/express-js.png"/>
+<img align="left" alt="MongoDB" width="40px" style="padding:12px;" src="./images/icons/mongodb.png"/>
+<img align="left" alt="Python" width="40px" style="padding:12px;" src="./images/icons/python.png"/>
+<img align="left" alt="Figma" width="40px" style="padding:12px;" src="./images/icons/figma.png"/>
+<img align="left" alt="Git" width="40px" style="padding:12px;" src="./images/icons/git.png"/>
+<img align="left" alt="Linux" width="40px" style="padding:12px;" src="./images/icons/linux.png"/>
+<img align="left" alt="Vim" width="40px" style="padding:12px;" src="./images/icons/vim.png"/>
+<img align="left" alt="VSCode" width="40px" style="padding:12px;" src="./images/icons/vscode.png"/>
+<img align="left" alt="Bash" width="40px" style="padding:12px;" src="./images/icons/bash.png"/>
+<div>
+
+<br>
+<br>
+
+## 📈 GitHub Stats
 
 <a href="https://github.com/UpalBarua/UpalBarua">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UpalBarua&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -26,30 +58,6 @@
 <a href="https://github.com/UpalBarua/UpalBarua">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=UpalBarua&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Upal's GitHub Stats" />
 </a>
-
-## 🧰 Languages and Tools
-
-<img align="left" alt="HTML5" width="40px" style="padding-right:12px;" src="./images/icons/html5.png"/>
-<img align="left" alt="CSS3" width="40px" style="padding-right:12px;" src="./images/icons/css3.png"/>
-<img align="left" alt="Javascript" width="40px" style="padding-right:12px;" src="./images/icons/javascript.png"/>
-<img align="left" alt="TypeScript" width="40px" style="padding-right:12px;" src="./images/icons/typescript.png"/>
-<img align="left" alt="React" width="40px" style="padding-right:12px;" src="./images/icons/react.png"/>
-<img align="left" alt="Next.js" width="40px" style="padding-right:12px;" src="./images/icons/next-js.png"/>
-<img align="left" alt="Sass" width="40px" style="padding-right:12px;" src="./images/icons/sass.png"/>
-<img align="left" alt="Tailwind CSS" width="40px" style="padding-right:12px;" src="./images/icons/tailwind.png"/>
-<img align="left" alt="Bootstrap 5" width="40px" style="padding-right:12px;" src="./images/icons/bootstrap-5.png"/>
-<img align="left" alt="Chakra UI" width="40px" style="padding-right:12px;" src="./images/icons/chakra-ui.png"/>
-<img align="left" alt="Firebase" width="40px" style="padding-right:12px;" src="./images/icons/firebase.png"/>
-<img align="left" alt="Node.js" width="40px" style="padding-right:12px;" src="./images/icons/node-js.png"/>
-<img align="left" alt="Express.js" width="40px" style="padding-right:12px;" src="./images/icons/express-js.png"/>
-<img align="left" alt="MongoDB" width="40px" style="padding-right:12px;" src="./images/icons/mongodb.png"/>
-<img align="left" alt="Python" width="40px" style="padding-right:12px;" src="./images/icons/python.png"/>
-<img align="left" alt="Figma" width="40px" style="padding-right:12px;" src="./images/icons/figma.png"/>
-<img align="left" alt="Git" width="40px" style="padding-right:12px;" src="./images/icons/git.png"/>
-<img align="left" alt="Linux" width="40px" style="padding-right:12px;" src="./images/icons/linux.png"/>
-<img align="left" alt="Vim" width="40px" style="padding-right:12px;" src="./images/icons/vim.png"/>
-<img align="left" alt="VSCode" width="40px" style="padding-right:12px;" src="./images/icons/vscode.png"/>
-<img align="left" alt="Bash" width="40px" style="padding-right:12px;" src="./images/icons/bash.png"/>
 
 <br>
 <br>
