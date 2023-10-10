@@ -2,7 +2,7 @@
 
 **`A developer filled with enthusiasm and passion`**
 
-<img style="height:200px;object-fit:cover;object-position:bottom;" src="./images/banner.gif" alt="banner" align="right">
+<!-- <img style="height:200px;object-fit:cover;object-position:bottom;" src="./images/banner.gif" alt="banner" align="right"> -->
 
 I'm a dedicated developer passionate about crafting user-friendly web applications. A year ago, I transitioned into development after exploring technology as a hobby for years. Primarily self-taught, I accelerated my learning with a bootcamp. I've honed my skills, specializing in CSS and React within the MERN stack, and recently ventured into TypeScript and Next.js, broadening my expertise. Backend development also intrigues me. Currently, I'm actively seeking a full-time software developer role to gain hands-on experience and collaborate with coding enthusiasts.
 
@@ -11,7 +11,7 @@ I'm a dedicated developer passionate about crafting user-friendly web applicatio
 <br>
 <br>
 
-## 🧰 Languages and Tools
+### 🧰 Languages and Tools
 
 <img align="left" alt="HTML5" width="30px" style="padding-right:10px;padding-bottom:10px;" src="./images/icons/html5.png"/>
 <img align="left" alt="CSS3" width="30px" style="padding-right:10px;padding-bottom:10px;" src="./images/icons/css3.png"/>
@@ -37,12 +37,8 @@ I'm a dedicated developer passionate about crafting user-friendly web applicatio
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 
 <a href="https://github.com/UpalBarua/UpalBarua">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UpalBarua&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -54,7 +50,7 @@ I'm a dedicated developer passionate about crafting user-friendly web applicatio
 <br>
 <br>
 
-## 📕 Latest Blog Posts
+### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
