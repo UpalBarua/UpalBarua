@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Upal Barua</h1>
+<img src="./images/banner.gif" alt="banner">
 
-<h3 align="center">A Enthusiastic frontend developer from Bangladesh</h3>
+# Upal Barua
 
-<img src="./banner.gif" alt="coding" align="right" width="400">
+**`A developer filled with enthusiasm and passion`**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=UpalBarua&label=Profile%20views&color=0e75b6&style=flat" alt="UpalBarua" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=UpalBarua&label=Profile%20views&color=0e75b6&style=flat" alt="UpalBarua" /></p>
 
 - 🌱 I’m currently learning **Next.js**
 
@@ -16,20 +16,53 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fAZLlu-XvqSaNsEETEspeyUlhd1XvMT6/view](https://drive.google.com/file/d/1fAZLlu-XvqSaNsEETEspeyUlhd1XvMT6/view)
 
-<!-- - ⚡ Fun fact **I'm your personal humor curator, dedicated to keeping smiles abundant** -->
+- ⚡ Fun fact **I'm your personal humor curator, dedicated to keeping smiles abundant**
 
-<h3 align="left">Connect with me:</h3>
+## &#x1f4c8; GitHub Stats
 
-<p align="left">
+<a href="https://github.com/UpalBarua/UpalBarua">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UpalBarua&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/UpalBarua/UpalBarua">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=UpalBarua&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Upal's GitHub Stats" />
+</a>
 
-<a href="https://www.linkedin.com/in/upalb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Upal Barua" height="30" width="40" /></a>
+## 🧰 Languages and Tools
 
-<h3 align="left">Languages and Tools:</h3>
+<img align="left" alt="HTML5" width="40px" style="padding-right:12px;" src="./images/icons/html5.png"/>
+<img align="left" alt="CSS3" width="40px" style="padding-right:12px;" src="./images/icons/css3.png"/>
+<img align="left" alt="Javascript" width="40px" style="padding-right:12px;" src="./images/icons/javascript.png"/>
+<img align="left" alt="TypeScript" width="40px" style="padding-right:12px;" src="./images/icons/typescript.png"/>
+<img align="left" alt="React" width="40px" style="padding-right:12px;" src="./images/icons/react.png"/>
+<img align="left" alt="Next.js" width="40px" style="padding-right:12px;" src="./images/icons/next-js.png"/>
+<img align="left" alt="Sass" width="40px" style="padding-right:12px;" src="./images/icons/sass.png"/>
+<img align="left" alt="Tailwind CSS" width="40px" style="padding-right:12px;" src="./images/icons/tailwind.png"/>
+<img align="left" alt="Bootstrap 5" width="40px" style="padding-right:12px;" src="./images/icons/bootstrap-5.png"/>
+<img align="left" alt="Chakra UI" width="40px" style="padding-right:12px;" src="./images/icons/chakra-ui.png"/>
+<img align="left" alt="Firebase" width="40px" style="padding-right:12px;" src="./images/icons/firebase.png"/>
+<img align="left" alt="Node.js" width="40px" style="padding-right:12px;" src="./images/icons/node-js.png"/>
+<img align="left" alt="Express.js" width="40px" style="padding-right:12px;" src="./images/icons/express-js.png"/>
+<img align="left" alt="MongoDB" width="40px" style="padding-right:12px;" src="./images/icons/mongodb.png"/>
+<img align="left" alt="Python" width="40px" style="padding-right:12px;" src="./images/icons/python.png"/>
+<img align="left" alt="Figma" width="40px" style="padding-right:12px;" src="./images/icons/figma.png"/>
+<img align="left" alt="Git" width="40px" style="padding-right:12px;" src="./images/icons/git.png"/>
+<img align="left" alt="Linux" width="40px" style="padding-right:12px;" src="./images/icons/linux.png"/>
+<img align="left" alt="Vim" width="40px" style="padding-right:12px;" src="./images/icons/vim.png"/>
+<img align="left" alt="VSCode" width="40px" style="padding-right:12px;" src="./images/icons/vscode.png"/>
+<img align="left" alt="Bash" width="40px" style="padding-right:12px;" src="./images/icons/bash.png"/>
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<br>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=UpalBarua&show_icons=true&locale=en&layout=compact" alt="UpalBarua" /></p>
+## 📕 Latest Blog Posts
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=UpalBarua&show_icons=true&locale=en" alt="UpalBarua" /></p>
+<!-- BLOG-POST-LIST:START -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UpalBarua&" alt="UpalBarua" /></p>
+- [Render ATL 2023 Trip Report](https://dev.to/codestackr/render-atl-2023-trip-report-mp4)
+- [Web Development Roadmap 2023](https://dev.to/codestackr/web-development-roadmap-2023-5beo)
+- [Getting Started with MongoDB &amp; Mongoose](https://dev.to/codestackr/getting-started-with-mongodb-mongoose-2h6a)
+- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
+- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://codestackr.com)
