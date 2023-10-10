@@ -1,4 +1,4 @@
-<img src="./images/banner.gif" alt="banner">
+<img style="height:300px;width:100%;object-fit:cover;object-position:bottom;" src="./images/banner.gif" alt="banner">
 
 # Upal Barua
 
