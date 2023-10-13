@@ -1,6 +1,6 @@
 # Hi there, I'm Upal Barua 👋
 
-**`A developer filled with enthusiasm and passion`**
+**`A digital sculptor filled with enthusiasm and passion`**
 
 <!-- <img style="height:200px;object-fit:cover;object-position:bottom;" src="./images/banner.gif" alt="banner" align="right"> -->
 
@@ -8,7 +8,6 @@ I'm a dedicated developer passionate about crafting user-friendly web applicatio
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=UpalBarua&label=Profile%20views&color=0e75b6&style=flat" alt="UpalBarua"  align="left" /></p> -->
 
-<br>
 <br>
 
 ### 🧰 Languages and Tools
@@ -37,6 +36,7 @@ I'm a dedicated developer passionate about crafting user-friendly web applicatio
 
 <br>
 <br>
+<br>
 
 ### 📈 GitHub Stats
 
@@ -54,14 +54,10 @@ I'm a dedicated developer passionate about crafting user-friendly web applicatio
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Render ATL 2023 Trip Report](https://dev.to/codestackr/render-atl-2023-trip-report-mp4)
-- [Web Development Roadmap 2023](https://dev.to/codestackr/web-development-roadmap-2023-5beo)
-- [Getting Started with MongoDB &amp; Mongoose](https://dev.to/codestackr/getting-started-with-mongodb-mongoose-2h6a)
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+- [Dummy Post](#)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](#)
 
 <!--
 
