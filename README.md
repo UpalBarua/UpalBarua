@@ -36,6 +36,7 @@ I'm a dedicated developer passionate about crafting user-friendly web applicatio
 <br>
 <br>
 <br>
+<br>
 
 ### 📈 GitHub Stats
 
@@ -48,9 +49,11 @@ I'm a dedicated developer passionate about crafting user-friendly web applicatio
 
 <br>
 <br>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=UpalBarua&label=Profile%20views&color=0e75b6&style=flat" alt="UpalBarua"  align="left" /></p>
 
+<br>
 <br>
 
 ### 📕 Latest Blog Posts
