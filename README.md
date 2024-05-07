@@ -1,14 +1,16 @@
-# Hi there, I'm Upal Barua 👋
+<img style="height:200px;object-fit:cover;object-position:bottom;" src="linkedin-banner.png" alt="banner">
 
-**`🧑‍🎨 A digital sculptor filled with enthusiasm and passion`**
+<!-- # Hi there, I'm Upal Barua 👋 -->
 
-<!-- <img style="height:200px;object-fit:cover;object-position:bottom;" src="./images/banner.gif" alt="banner" align="right"> -->
+<!-- **`🧑‍🎨 A digital sculptor filled with enthusiasm and passion`** -->
+
+### About Me
 
 I'm a dedicated developer passionate about crafting user-friendly web applications. A year ago, I transitioned into development after exploring technology as a hobby for years. _Primarily self-taught, I accelerated my learning with a bootcamp_. I've honed my skills, **specializing in CSS and React within the MERN stack**, and recently ventured into **TypeScript and Next.js**, broadening my expertise. Backend development also intrigues me. Currently, I'm actively <u>seeking a full-time software developer</u> role to gain hands-on experience and collaborate with coding enthusiasts.
 
 <!-- <br> -->
 
-### 🧰 Languages and Tools
+### Tech Stack
 
 <img align="left" alt="HTML5" width="40px" style="padding-right:10px;padding-bottom:10px;" src="./images/icons/html5.png"/>
 <img align="left" alt="CSS3" width="40px" style="padding-right:10px;padding-bottom:10px;" src="./images/icons/css3.png"/>
