@@ -39,10 +39,10 @@ I'm a dedicated developer passionate about crafting user-friendly web applicatio
 ## 📈 GitHub Stats
 
 <a href="https://github.com/UpalBarua/UpalBarua">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=UpalBarua&show_icons=true&line_height=27&count_private=true&title_color=1DA8C3&text_color=c9cacc&icon_color=1DA8C3&bg_color=0D1117" alt="Upal's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=UpalBarua&show_icons=true&line_height=27&count_private=true&title_color=1DA8C3&text_color=c9cacc&icon_color=1DA8C3&bg_color=0D1117&border_color=262B32" alt="Upal's GitHub Stats" />
 </a>
 <a href="https://github.com/UpalBarua/UpalBarua" style="padding-right:10px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UpalBarua&hide=java,html,tex&title_color=1DA8C3&text_color=c9cacc&icon_color=1DA8C3&bg_color=0D1117&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UpalBarua&hide=java,html,tex&title_color=1DA8C3&text_color=c9cacc&icon_color=1DA8C3&bg_color=0D1117&border_color=262B32&langs_count=3" />
 </a>
 
 <br/>
