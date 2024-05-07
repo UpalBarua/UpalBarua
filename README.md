@@ -47,7 +47,7 @@ I'm a dedicated developer passionate about crafting user-friendly web applicatio
 
 <br/>
 
-### 📬 Contact Me
+## 📬 Contact Me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/upalb/)](https://www.linkedin.com/in/upalb/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:upalbarua52@gmail.com)](mailto:upalbarua52@gmail.com)
