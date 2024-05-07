@@ -1,4 +1,4 @@
-<img style="height:200px;object-fit:cover;object-position:bottom;" src="linkedin-banner.png" alt="banner">
+<img src="images/banner.png" alt="banner">
 
 <!-- # Hi there, I'm Upal Barua 👋 -->
 
