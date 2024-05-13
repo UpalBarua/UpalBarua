@@ -44,7 +44,7 @@ I'm a dedicated developer passionate about crafting user-friendly web applicatio
 <a href="https://github.com/UpalBarua/UpalBarua" style="padding-right:10px">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UpalBarua&hide=java,html,tex&title_color=1DA8C3&text_color=c9cacc&icon_color=1DA8C3&bg_color=0D1117&border_color=262B32&langs_count=3" />
 </a>
- <img src="https://github-readme-streak-stats.herokuapp.com?user=UpalBaura&&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=UpalBarua&theme=dark" alt="GitHub Streak" /></a>
 
 <br/>
